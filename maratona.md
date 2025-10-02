@@ -5,11 +5,11 @@ Esta é a minha seleção de filmes essenciais.
 ## Gêneros
 
 ### Ficção Científica
-- [ ] 2001: Uma Odisseia no Espaço
-- [ ] Blade Runner
+- [X] 2001: Uma Odisseia no Espaço
+- [X] Blade Runner
 - [ ] Matrix
 
 ### Fantasia
-- [ ] O Senhor dos Anéis: A Sociedade do Anel
-- [ ] A Viagem de Chihiro
-- [ ] O Labirinto do Fauno
+- [X] O Senhor dos Anéis: A Sociedade do Anel
+- [X] A Viagem de Chihiro
+- [X] O Labirinto do Fauno
