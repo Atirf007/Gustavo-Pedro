@@ -15,3 +15,5 @@ Esta é a minha seleção de filmes essenciais.
 - [X] A Viagem de Chihiro
 - [X] O Labirinto do Fauno
 - [ ] Howl's Moving Castle
+- [ ] O Menino e a Garça
+- [ ] Zootopia 2
