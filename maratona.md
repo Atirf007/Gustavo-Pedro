@@ -13,3 +13,5 @@ Esta é a minha seleção de filmes essenciais.
 - [X] O Senhor dos Anéis: A Sociedade do Anel
 - [X] A Viagem de Chihiro
 - [X] O Labirinto do Fauno
+- [ ] O Menino e a Garça
+- [ ] Zootopia 2
