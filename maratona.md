@@ -11,5 +11,7 @@ Esta é a minha seleção de filmes essenciais.
 
 ### Fantasia
 - [X] O Senhor dos Anéis: A Sociedade do Anel
+- [ ] O Senhor dos Anéis: As Duas Torres
 - [X] A Viagem de Chihiro
 - [X] O Labirinto do Fauno
+- [ ] Howl's Moving Castle
